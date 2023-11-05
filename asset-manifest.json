@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Salim-fayis.github.io/e-store-main/static/css/main.26aa099f.css",
-    "main.js": "/Salim-fayis.github.io/e-store-main/static/js/main.eb482bcc.js",
+    "main.js": "/Salim-fayis.github.io/e-store-main/static/js/main.ad9353bc.js",
     "static/js/787.ae3507f6.chunk.js": "/Salim-fayis.github.io/e-store-main/static/js/787.ae3507f6.chunk.js",
     "static/media/slider-img.png": "/Salim-fayis.github.io/e-store-main/static/media/slider-img.144c7c5cfdbecc4d8f75.png",
     "static/media/tp3.jpg": "/Salim-fayis.github.io/e-store-main/static/media/tp3.576026fc7bfdf2a5bee3.jpg",
@@ -20,11 +20,11 @@
     "static/media/headphone.png": "/Salim-fayis.github.io/e-store-main/static/media/headphone.e129263a7cf140e39549.png",
     "index.html": "/Salim-fayis.github.io/e-store-main/index.html",
     "main.26aa099f.css.map": "/Salim-fayis.github.io/e-store-main/static/css/main.26aa099f.css.map",
-    "main.eb482bcc.js.map": "/Salim-fayis.github.io/e-store-main/static/js/main.eb482bcc.js.map",
+    "main.ad9353bc.js.map": "/Salim-fayis.github.io/e-store-main/static/js/main.ad9353bc.js.map",
     "787.ae3507f6.chunk.js.map": "/Salim-fayis.github.io/e-store-main/static/js/787.ae3507f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26aa099f.css",
-    "static/js/main.eb482bcc.js"
+    "static/js/main.ad9353bc.js"
   ]
 }
