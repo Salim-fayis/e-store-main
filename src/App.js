@@ -58,8 +58,8 @@ function App() {
     <Router>
       <Header searchbtn={searchbtn} productCounter={cart.length}/>
    <Routes>
-   <Route path='/e-store-main' element={<Home detail={detail} view={view} close={close} setClose={setClose} addtocart={addtocart}/>}/>
    <Route path='/' element={<Home detail={detail} view={view} close={close} setClose={setClose} addtocart={addtocart}/>}/>
+   <Route path='/e-store-main' element={<Home detail={detail} view={view} close={close} setClose={setClose} addtocart={addtocart}/>}/>
         <Route path='/product' element={<Product product={product} setProduct={setProduct} detail={detail} view={view} close={close} setClose={setClose} addtocart={addtocart}/>} />
         <Route path='/cart' element={<Cart cart={cart} setCart={setCart} />} />
         <Route path='/contact' element={<Contact />} />
